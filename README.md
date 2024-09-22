@@ -13,4 +13,4 @@ This project is a **Student Management System** developed as part of a mini-proj
 - **XAMPP:** Manages the backend database.
 - **PyCharm:** Integrated Development Environment (IDE) used for development.
 
-🎥 Watch the Exciting Demonstration! 📺 [video](https://www.linkedin.com/posts/essaadia-wanaim_python-tkinter-studentmanagementsystem-activity-7243344093559275520-DQqS?utm_source=share&utm_medium=member_desktop).
+🎥 Watch the Exciting Demonstration! [video](https://www.linkedin.com/posts/essaadia-wanaim_python-tkinter-studentmanagementsystem-activity-7243344093559275520-DQqS?utm_source=share&utm_medium=member_desktop).
